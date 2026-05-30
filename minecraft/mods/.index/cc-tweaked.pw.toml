@@ -1,0 +1,18 @@
+filename = 'cc-tweaked-1.20.1-fabric-1.113.1.jar'
+name = 'CC: Tweaked'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'cc-tweaked-1.20.1-fabric-1.113.1.jar'
+
+[download]
+hash = '6c8177da26d3de753599884a78b61d3f2b2598c4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5714509
+project-id = 282001

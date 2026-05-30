@@ -1,0 +1,21 @@
+filename = 'ExtremeSoundMuffler-3.49.1-fabric-1.20.1.jar'
+name = 'Extreme sound muffler - Fabric'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Extreme sound muffler 3.49.1 - Fabric 1.20.1'
+
+[download]
+hash = '099d2a64f019a73f2c03f4cd2d9c9e8cc42976d1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6526567
+project-id = 566140
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

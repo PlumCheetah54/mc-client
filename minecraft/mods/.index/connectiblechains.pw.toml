@@ -1,0 +1,29 @@
+filename = 'connectiblechains-2.5.4-hotfix.1+1.20.1.jar'
+name = 'Connectible Chains [Fabric]'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Connectible Chains v2.5.4-hotfix.1 for Minecraft 1.20.1'
+
+[download]
+hash = '33aebfb9889a20c2c50e7ea3a2b2eaa8e539893a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6614967
+project-id = 415681
+
+[[x-prismlauncher-dependencies]]
+addonId = '308702'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '348521'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

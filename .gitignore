@@ -1,0 +1,39 @@
+# Personal worlds/data
+minecraft/saves/
+minecraft/logs/
+minecraft/crash-reports/
+minecraft/screenshots/
+minecraft/backups/
+
+# User-specific settings
+minecraft/options.txt
+minecraft/optionsof.txt
+minecraft/usercache.json
+minecraft/usernamecache.json
+minecraft/launcher_profiles.json
+
+# Map/minimap personal data
+minecraft/journeymap/
+minecraft/xaeroworldmap/
+minecraft/xaerominimap/
+minecraft/xaero/
+
+# Runtime/cache junk
+minecraft/.fabric/
+minecraft/.mixin.out/
+minecraft/.cache/
+minecraft/assets/
+minecraft/libraries/
+minecraft/versions/
+
+# Removed ad/server-browser mods
+minecraft/mods/ServerBrowser-*.jar
+minecraft/mods/BHMenu-*.jar
+minecraft/config/bhmenu/
+minecraft/config/ServerBrowser/
+minecraft/local/crash_assistant/
+minecraft/local/
+
+# OS junk
+Thumbs.db
+.DS_Store

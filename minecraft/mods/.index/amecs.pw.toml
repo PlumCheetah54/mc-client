@@ -1,0 +1,25 @@
+filename = 'amecs-1.3.10+mc.1.20.1.jar'
+name = 'Amecs (Fabric)'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[1.20.1] 1.3.10'
+
+[download]
+hash = '1eff33308da62b47e5767875b28cdd436da77e2c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4782283
+project-id = 324564
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'EMBEDDED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '310111'
+type = 'OPTIONAL'

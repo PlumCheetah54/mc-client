@@ -1,0 +1,18 @@
+filename = 'DisableCustomWorldsAdvice-4.1.jar'
+name = '[FABRIC/QUILT] Disable Custom Worlds Advice'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.4', '1.20', '1.20.1', '1.20.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'DisableCustomWorldsAdvice-4.1.jar'
+
+[download]
+hash = 'af89914abaa661b1e055eb9fc45b26fba8c20102'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4619700
+project-id = 401978

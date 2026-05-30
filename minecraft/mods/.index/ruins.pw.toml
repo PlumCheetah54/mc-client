@@ -1,0 +1,18 @@
+filename = 'Philips-Ruins1.20.1-5.5-Fabric.jar'
+name = "Philip's Ruins"
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Philips-Ruins1.20.1-5.5-Fabric'
+
+[download]
+hash = '4034c79ae3d28d7bdec484ec1bb062652decbb6f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6695348
+project-id = 569737

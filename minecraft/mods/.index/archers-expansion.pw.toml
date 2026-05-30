@@ -1,0 +1,33 @@
+filename = 'archers-expansion-0.2.5-1.20.1.jar'
+name = 'Archers Expansion (RPG Series Plus)'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'archers-expansion-0.2.5-1.20.1'
+
+[download]
+hash = '8cfc1290b0fc621e29dfff830ecd91518c403672'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6921946
+project-id = 1109024
+
+[[x-prismlauncher-dependencies]]
+addonId = '932359'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1179595'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '807653'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '923030'
+type = 'REQUIRED'

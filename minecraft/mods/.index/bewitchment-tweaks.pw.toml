@@ -1,0 +1,18 @@
+filename = 'bewitchment-tweaks-1.0.0.jar'
+name = 'Bewitchment Tweaks'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'bewitchment-tweaks-1.0.0.jar'
+
+[download]
+hash = '47dd22cdccbff445717c6075475c28eb8ef3c2cb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7432090
+project-id = 1423426

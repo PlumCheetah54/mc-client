@@ -1,0 +1,18 @@
+filename = 'rare-ice-0.6.0.jar'
+name = 'Rare Ice (Forge/Fabric)'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20-Snapshot', '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Fabric 1.20(.1)] v0.6.0'
+
+[download]
+hash = '0d70c96d95ba2effa0b37bddf4ed54397ee5774c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4594971
+project-id = 373774

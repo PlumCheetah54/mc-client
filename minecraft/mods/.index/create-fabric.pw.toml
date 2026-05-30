@@ -1,0 +1,21 @@
+filename = 'create-fabric-0.5.1-j-build.1631+mc1.20.1.jar'
+name = 'Create Fabric'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'Create 1.20.1 v0.5.1.j Patch 3'
+
+[download]
+hash = 'dbf69b9ed007259a38f058e96ee203329a24859c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5982726
+project-id = 624165
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

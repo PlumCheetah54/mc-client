@@ -1,0 +1,49 @@
+filename = 'simplyswords-1.56.0-1.20.1.jar'
+name = 'Simply Swords [Fabric & Forge]'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'FABRIC v1.56.0-1.20.1'
+
+[download]
+hash = '6243b46a0ce782f6071243cd2a604470aaf38d77'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5639522
+project-id = 659887
+
+[[x-prismlauncher-dependencies]]
+addonId = '890301'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '427177'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '348521'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '771265'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '639842'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '410127'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '393236'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '419699'
+type = 'REQUIRED'

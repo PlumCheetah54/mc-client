@@ -1,0 +1,18 @@
+filename = 'more-totems-mod-2.16.0.jar'
+name = 'More Totems Of Undying'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'more-totems-mod-2.16.0.jar'
+
+[download]
+hash = 'bc6c1078fb24db393a8c64a7032efbe90ec013e9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5030696
+project-id = 357265

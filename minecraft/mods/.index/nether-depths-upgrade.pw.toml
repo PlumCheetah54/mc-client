@@ -1,0 +1,21 @@
+filename = 'netherdepthsupgrade-fabric-3.1.6-1.20.jar'
+name = 'Nether Depths Upgrade'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'netherdepthsupgrade-fabric-3.1.6-1.20'
+
+[download]
+hash = '9c7c167cbffa88205867928a29703bd6be373fe5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5340331
+project-id = 670011
+
+[[x-prismlauncher-dependencies]]
+addonId = '388172'
+type = 'REQUIRED'

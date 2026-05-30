@@ -1,0 +1,25 @@
+filename = 'deeperdarker-fabric-1.20-1.3.3.jar'
+name = 'Deeper and Darker'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v1.3.3 for Fabric 1.20 & 1.20.1'
+
+[download]
+hash = '0231e175189dfcfe3443cb7b034c414544348cc8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6007575
+project-id = 659011
+
+[[x-prismlauncher-dependencies]]
+addonId = '532610'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

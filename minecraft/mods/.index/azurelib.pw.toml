@@ -1,0 +1,21 @@
+filename = 'azurelib-fabric-1.20.1-3.0.15.jar'
+name = 'AzureLib'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'azurelib fabric 1.20.1'
+
+[download]
+hash = '955921cb0069c022cc6d06a18f8e04bbf58875c5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6849106
+project-id = 817423
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

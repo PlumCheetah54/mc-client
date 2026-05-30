@@ -1,0 +1,31 @@
+filename = 'axolotl-item-fix-1.1.7.jar'
+name = 'Axolotl Bucket Fix'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.20-Snapshot',
+    '1.20',
+    '1.20.1',
+    '1.20.2-Snapshot',
+    '1.20.2',
+    '1.20.3-Snapshot',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5-Snapshot'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'axolotl-item-fix-1.1.7.jar'
+
+[download]
+hash = '1bf62da62d47c3277d123c81e5eb94cc48f44fbd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4582736
+project-id = 495453
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

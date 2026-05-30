@@ -1,0 +1,21 @@
+filename = 'aaa_particles-1.20.1-1.4.7-fabric.jar'
+name = 'AAA Particles'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'aaa_particles-1.20.1-1.4.7-fabric.jar'
+
+[download]
+hash = '11db12648327a389197867607c134f0c8ca4d057'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5834240
+project-id = 979809
+
+[[x-prismlauncher-dependencies]]
+addonId = '419699'
+type = 'EMBEDDED'

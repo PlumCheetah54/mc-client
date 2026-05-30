@@ -1,0 +1,29 @@
+filename = 'Botania-1.20.1-450-FABRIC.jar'
+name = 'Botania (Fabric/Quilt)'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Botania-1.20.1-450-FABRIC.jar'
+
+[download]
+hash = '6b183bae0505df3fed36298381a29aa814542af9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6870707
+project-id = 421839
+
+[[x-prismlauncher-dependencies]]
+addonId = '341284'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306770'
+type = 'REQUIRED'

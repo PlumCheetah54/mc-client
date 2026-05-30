@@ -1,0 +1,49 @@
+filename = 'Estrogen-4.3.4+1.20.1-fabric.jar'
+name = 'Estrogen'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Create: Estrogen 4.3.4+1.20.1 Fabric'
+
+[download]
+hash = '1f1d4b1e32136c554bbf875aa19dbe72488a7f09'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6396808
+project-id = 850410
+
+[[x-prismlauncher-dependencies]]
+addonId = '570073'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '624165'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '412013'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '310111'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '341284'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '967091'
+type = 'EMBEDDED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '704113'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '580555'
+type = 'OPTIONAL'

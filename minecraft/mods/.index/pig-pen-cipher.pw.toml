@@ -1,0 +1,21 @@
+filename = 'PigPen-Fabric-1.20.1-15.0.2.jar'
+name = 'Pig Pen Cipher'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'PigPen-Fabric-1.20.1-15.0.2.jar'
+
+[download]
+hash = '81f7499a910f3e9e644687afdf6aa8dcafec6ae9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4714774
+project-id = 396234
+
+[[x-prismlauncher-dependencies]]
+addonId = '228525'
+type = 'REQUIRED'

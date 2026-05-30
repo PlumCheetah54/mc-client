@@ -1,0 +1,18 @@
+filename = 'Sniffer+-fabric-1.20.1-0.3.0.jar'
+name = "Hellion's Sniffer+"
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = "Hellion's Sniffer+ Fabric 1.20.1-0.3.0"
+
+[download]
+hash = '585bdb2eebc53d7e4774a2659958cd2543716a60'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5277884
+project-id = 871962
