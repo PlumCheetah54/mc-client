@@ -8,9 +8,21 @@ minecraft/backups/
 # User-specific settings
 minecraft/options.txt
 minecraft/optionsof.txt
+minecraft/optionsshaders.txt
+minecraft/optionsviveprofiles.txt
 minecraft/usercache.json
 minecraft/usernamecache.json
 minecraft/launcher_profiles.json
+
+# Welcome/intro screen state
+minecraft/welcomescreen_cache.json
+minecraft/config/fancymenu/options.txt
+
+# Shader / graphics personal settings
+minecraft/config/iris.properties
+minecraft/config/iris*.properties
+minecraft/config/oculus.properties
+minecraft/config/sodium-options.json
 
 # Map/minimap personal data
 minecraft/journeymap/
@@ -25,6 +37,7 @@ minecraft/.cache/
 minecraft/assets/
 minecraft/libraries/
 minecraft/versions/
+minecraft/server-resource-packs/
 
 # Removed ad/server-browser mods
 minecraft/mods/ServerBrowser-*.jar
